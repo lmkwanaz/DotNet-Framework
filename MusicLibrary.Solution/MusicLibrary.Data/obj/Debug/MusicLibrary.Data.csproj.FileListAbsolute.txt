@@ -1,0 +1,17 @@
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\MusicLibrary.Data.dll.config
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\MusicLibrary.Data.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\MusicLibrary.Data.pdb
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\ICM.JHB.Utility.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\NHibernate.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\ServiceModelEx.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\Ninject.Core.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\log4net.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\ICM.JHB.Utility.pdb
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\bin\Debug\Ninject.Core.xml
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\obj\Debug\MusicLibrary.Data.csprojAssemblyReference.cache
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\obj\Debug\MusicLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\obj\Debug\MusicLibrary.Data.csproj.CopyComplete
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\obj\Debug\MusicLibrary.Data.dll
+C:\Users\Neo.mkwanazi\source\repos\MusicLibrary.Solution\MusicLibrary.Data\obj\Debug\MusicLibrary.Data.pdb
